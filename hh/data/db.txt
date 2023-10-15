@@ -1,6 +1,6 @@
 localhost
 
 root
-
-softw
+password
+sys
 utf8mb4
